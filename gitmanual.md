@@ -10,6 +10,4 @@
 * [git add コマンド](module3-2.md)
 * [git commitコマンド](module3-3.md)
 
-## 4. 誤った修正
-
 ![Copyright example.corp](./image/copyright.jpg)
