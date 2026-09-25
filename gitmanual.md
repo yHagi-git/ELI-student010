@@ -10,4 +10,7 @@
 * [git add コマンド](module3-2.md)
 * [git commitコマンド](module3-3.md)
 
+## 4. ブランチ操作
+* [git checkoutコマンド](modeule4-2.md)
+
 ![Copyright example.corp](./image/copyright.jpg)
